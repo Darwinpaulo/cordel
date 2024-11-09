@@ -4,6 +4,7 @@
 *{
     margin: 0px;
     padding: 0px;
+    font-family: var(--font);
 }
 :root{
     --font: "Itim", cursive;
@@ -11,6 +12,7 @@
 
 html,body{
     min-height: 100vh;
+    min-width: 100vh;
     background-color: rgb(249, 255, 255);
     
 }
